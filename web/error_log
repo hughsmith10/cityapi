@@ -1,0 +1,28 @@
+[16-Apr-2015 21:50:38] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/hbiinc/public_html/xpressbillpay_interview/basic/web/index.php on line 13
+[16-Apr-2015 21:50:38] PHP Parse error:  syntax error, unexpected T_STRING in /home1/hbiinc/public_html/xpressbillpay_interview/basic/web/index.php on line 13
+[16-Apr-2015 21:51:15] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/hbiinc/public_html/xpressbillpay_interview/basic/web/index.php on line 12
+[16-Apr-2015 21:51:15] PHP Parse error:  syntax error, unexpected T_STRING in /home1/hbiinc/public_html/xpressbillpay_interview/basic/web/index.php on line 12
+[16-Apr-2015 21:54:56] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/hbiinc/public_html/xpressbillpay_interview/basic/web/index.php on line 12
+[16-Apr-2015 21:54:56] PHP Parse error:  syntax error, unexpected T_STRING in /home1/hbiinc/public_html/xpressbillpay_interview/basic/web/index.php on line 12
+[16-Apr-2015 21:55:12] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/hbiinc/public_html/xpressbillpay_interview/basic/web/index.php on line 12
+[16-Apr-2015 21:55:12] PHP Parse error:  syntax error, unexpected T_STRING in /home1/hbiinc/public_html/xpressbillpay_interview/basic/web/index.php on line 12
+[16-Apr-2015 21:55:15] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/hbiinc/public_html/xpressbillpay_interview/basic/web/index.php on line 12
+[16-Apr-2015 21:55:15] PHP Parse error:  syntax error, unexpected T_STRING in /home1/hbiinc/public_html/xpressbillpay_interview/basic/web/index.php on line 12
+[16-Apr-2015 22:05:00 America/Chicago] PHP Parse error:  syntax error, unexpected ''rules'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home1/hbiinc/public_html/xpressbillpay_interview/basic/config/web.php on line 48
+[16-Apr-2015 22:06:10 America/Chicago] PHP Fatal error:  Class 'app\controllers\Request' not found in /home1/hbiinc/public_html/xpressbillpay_interview/basic/controllers/SiteController.php on line 55
+[16-Apr-2015 22:07:10 America/Chicago] PHP Fatal error:  Class 'app\controllers\Query' not found in /home1/hbiinc/public_html/xpressbillpay_interview/basic/controllers/SiteController.php on line 58
+[16-Apr-2015 23:30:57 America/Chicago] PHP Fatal error:  Class 'app\controllers\Query' not found in /home1/hbiinc/public_html/xpressbillpay_interview/basic/controllers/SiteController.php on line 58
+[16-Apr-2015 23:47:25 America/Chicago] PHP Fatal error:  Class 'CArrayDataProvider' not found in /home1/hbiinc/public_html/xpressbillpay_interview/basic/views/site/index.php on line 17
+[16-Apr-2015 23:50:52 America/Chicago] PHP Fatal error:  Class 'CArrayDataProvider' not found in /home1/hbiinc/public_html/xpressbillpay_interview/basic/views/site/index.php on line 17
+[17-Apr-2015 00:05:35 America/Chicago] PHP Fatal error:  Class 'CArrayDataProvider' not found in /home1/hbiinc/public_html/xpressbillpay_interview/basic/views/site/index.php on line 17
+[17-Apr-2015 01:28:44 America/Chicago] PHP Fatal error:  Class 'CArrayDataProvider' not found in /home1/hbiinc/public_html/xpressbillpay_interview/basic/views/site/index.php on line 17
+[17-Apr-2015 01:40:12 America/Chicago] PHP Fatal error:  Class 'CArrayDataProvider' not found in /home1/hbiinc/public_html/xpressbillpay_interview/basic/views/site/index.php on line 17
+[17-Apr-2015 01:44:55 America/Chicago] PHP Fatal error:  Class 'CArrayDataProvider' not found in /home1/hbiinc/public_html/xpressbillpay_interview/basic/views/site/index.php on line 17
+[17-Apr-2015 01:45:34 America/Chicago] PHP Fatal error:  Class 'ArrayDataProvider' not found in /home1/hbiinc/public_html/xpressbillpay_interview/basic/views/site/index.php on line 17
+[17-Apr-2015 02:26:52 America/Chicago] PHP Fatal error:  Class 'app\controllers\City' not found in /home1/hbiinc/public_html/cityapi/controllers/SiteController.php on line 59
+[17-Apr-2015 02:31:29 America/Chicago] PHP Fatal error:  Class 'app\controllers\City' not found in /home1/hbiinc/public_html/cityapi/controllers/SiteController.php on line 59
+[17-Apr-2015 02:32:28 America/Chicago] PHP Fatal error:  Call to undefined method app\models\City::findAll() in /home1/hbiinc/public_html/cityapi/controllers/SiteController.php on line 59
+[17-Apr-2015 02:34:26 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home1/hbiinc/public_html/cityapi/controllers/SiteController.php on line 58
+[17-Apr-2015 02:34:56 America/Chicago] PHP Fatal error:  Call to undefined method app\models\City::find() in /home1/hbiinc/public_html/cityapi/controllers/SiteController.php on line 58
+[17-Apr-2015 02:48:19 America/Chicago] PHP Fatal error:  Call to undefined method app\models\City::find() in /home1/hbiinc/public_html/cityapi/controllers/SiteController.php on line 59
+[17-Apr-2015 17:13:28 America/Chicago] PHP Parse error:  syntax error, unexpected ']' in /home1/hbiinc/public_html/cityapi/controllers/SiteController.php on line 81
